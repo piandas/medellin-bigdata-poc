@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+# Ignorando la carpeta de eventos simulados
+/data/sim_events/
+
+
 # C extensions
 *.so
 

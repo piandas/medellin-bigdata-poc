@@ -1,0 +1,12 @@
+{
+  "base_path": "/Workspace/Users/danielale22rojas@gmail.com/medellin-bigdata-poc",
+  "interval_seconds": 30,
+  "quantity_range": [1, 50],
+  "paths": {
+    "output_dir": "data/sim_events",
+    "customers": "data/raw/customers.parquet",
+    "employees": "data/raw/employees.parquet",
+    "neighborhoods": "data/raw/medellin_neighborhoods.parquet",
+    "city_mask": "data/raw/50001.parquet"
+  }
+}
